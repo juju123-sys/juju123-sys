@@ -6,7 +6,7 @@ Meu nome é Karolaine
 - Estou medesenvolvendo na linguagem JavaScript
 - Utilizo esse espaçoparaminha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### Você pode entrar em coontato comigo 📫
+  ### Você pode entrar em contato comigo 📫
 
   00001121484372SP@al.educacao.sp.gov.br
 
